@@ -1,2 +1,2 @@
 # Kaggle-Titanic-
-Easy Data Science Project for beginner. For more detail: https://www.kaggle.com/c/titanic
+A good Data Science Project for beginner. For more detail: https://www.kaggle.com/c/titanic
